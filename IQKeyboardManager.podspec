@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/hackiftekhar/IQKeyboardManager"
   spec.license      = 'MIT'
   spec.authors      = { "Iftekhar Qurashi" => "hack.iftekhar@gmail.com" }
-  spec.source       = { :git => 'https://github.com/hackiftekhar/IQKeyboardManager.git', :tag => "v3.1.1.0" }
+  spec.source       = { :git => 'https://github.com/hackiftekhar/IQKeyboardManager.git', :tag => "v3.1.1.1" }
 
   spec.source_files = 'IQKeyBoardManager/*.{h,m}'
   spec.resources = 'IQKeyBoardManager/IQKeyboardManager.bundle'
